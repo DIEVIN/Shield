@@ -6,4 +6,4 @@ Try this first:
 
 3.try to merge and solve the conflict
 
-REVAMPED
+REVAMPED solved
