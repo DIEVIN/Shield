@@ -1,4 +1,7 @@
 Try this first:
 
+1.add some file.txt (commit)
 
-FIRST CONFLICT !!
+2.add some text to make conflict
+
+3.try to merge and solve the conflict
