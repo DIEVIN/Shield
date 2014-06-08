@@ -1,0 +1,11 @@
+Falling Rocks is console-based application
+
+Inspired by the story of WarCraft.
+Where the War of the Three Hammers takes place.
+Three dwarven clans fight for supremacy.
+
+You are about to embody one of the champions during the war.
+
+Use the arrow keys to navigate.
+
+Good Luck !!
